@@ -1,0 +1,30 @@
+﻿已經開始建置於 2013/12/17 下午 03:27:07。
+     1>節點 2 (build 目標) 上的專案 "D:\研究生活\張元翔 數位影像處理\HW\Homework4\HW4_Image Segmentation\HW4_Image segmentation\HW4_Image segmentation\HW4_Image segmentation.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\HW4_Image segmentation.unsuccessfulbuild"。
+       ClCompile:
+         d:\program files\Microsoft Visual Studio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "Image Segmentation.cpp"
+         Image Segmentation.cpp
+     1>d:\program files\opencv2.4.6\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\program files\opencv2.4.6\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\program files\opencv2.4.6\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\program files\opencv2.4.6\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\program files\opencv2.4.6\build\include\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\研究生活\張元翔 數位影像處理\hw\homework4\hw4_image segmentation\hw4_image segmentation\hw4_image segmentation\image segmentation.cpp(126): warning C4244: '=' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\研究生活\張元翔 數位影像處理\hw\homework4\hw4_image segmentation\hw4_image segmentation\hw4_image segmentation\image segmentation.cpp(129): warning C4244: '=' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\研究生活\張元翔 數位影像處理\hw\homework4\hw4_image segmentation\hw4_image segmentation\hw4_image segmentation\image segmentation.cpp(130): warning C4244: '=' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+     1>d:\研究生活\張元翔 數位影像處理\hw\homework4\hw4_image segmentation\hw4_image segmentation\hw4_image segmentation\image segmentation.cpp(131): warning C4244: '=' : 將 'int' 轉換為 'float'，由於型別不同，可能導致資料遺失
+       Link:
+         d:\program files\Microsoft Visual Studio2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\研究生活\張元翔 數位影像處理\HW\Homework4\HW4_Image Segmentation\HW4_Image segmentation\Debug\HW4_Image segmentation.exe" /NOLOGO opencv_core246d.lib opencv_calib3d246d.lib opencv_contrib246d.lib opencv_features2d246d.lib opencv_highgui246d.lib opencv_imgproc246d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HW4_Image segmentation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\研究生活\張元翔 數位影像處理\HW\Homework4\HW4_Image Segmentation\HW4_Image segmentation\Debug\HW4_Image segmentation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\研究生活\張元翔 數位影像處理\HW\Homework4\HW4_Image Segmentation\HW4_Image segmentation\Debug\HW4_Image segmentation.lib" /MACHINE:X86 "Debug\Image Segmentation.obj"
+         LINK : 最後的累加連結找不到或未建置 D:\研究生活\張元翔 數位影像處理\HW\Homework4\HW4_Image Segmentation\HW4_Image segmentation\Debug\HW4_Image segmentation.exe，正在執行完整連結
+         HW4_Image segmentation.vcxproj -> D:\研究生活\張元翔 數位影像處理\HW\Homework4\HW4_Image Segmentation\HW4_Image segmentation\Debug\HW4_Image segmentation.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\研究生活\張元翔 數位影像處理\HW\Homework4\HW4_Image Segmentation\HW4_Image segmentation\Debug\HW4_Image segmentation.exe;#1" /manifest "Debug\HW4_Image segmentation.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\HW4_Image segmentation.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\HW4_Image segmentation.lastbuildstate"。
+     1>專案 "D:\研究生活\張元翔 數位影像處理\HW\Homework4\HW4_Image Segmentation\HW4_Image segmentation\HW4_Image segmentation\HW4_Image segmentation.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.12

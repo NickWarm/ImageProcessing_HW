@@ -1,0 +1,29 @@
+﻿已經開始建置於 2013/12/31 下午 02:22:41。
+     1>節點 2 (build 目標) 上的專案 "D:\研究生活\張元翔 數位影像處理\HW\Homework5\HW5_10179008\HW5_Color Image Processing\HW5_Color Image Processing\HW5_Color Image Processing.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\HW5_Color Image Processing.unsuccessfulbuild"。
+       ClCompile:
+         d:\program files\Microsoft Visual Studio2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "HW5_RGB 與 HSI 互相轉換.cpp"
+         HW5_RGB 與 HSI 互相轉換.cpp
+     1>d:\program files\opencv2.4.6\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\program files\opencv2.4.6\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\program files\opencv2.4.6\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\program files\opencv2.4.6\build\include\opencv2\flann\dist.h : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\program files\opencv2.4.6\build\include\opencv2\legacy\compat.hpp : warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+     1>d:\研究生活\張元翔 數位影像處理\hw\homework5\hw5_10179008\hw5_color image processing\hw5_color image processing\hw5_rgb 與 hsi 互相轉換.cpp(339): warning C4101: 'H' : 未參考的區域變數
+     1>d:\研究生活\張元翔 數位影像處理\hw\homework5\hw5_10179008\hw5_color image processing\hw5_color image processing\hw5_rgb 與 hsi 互相轉換.cpp(339): warning C4101: 'S' : 未參考的區域變數
+     1>d:\研究生活\張元翔 數位影像處理\hw\homework5\hw5_10179008\hw5_color image processing\hw5_color image processing\hw5_rgb 與 hsi 互相轉換.cpp(339): warning C4101: 'I' : 未參考的區域變數
+       Link:
+         d:\program files\Microsoft Visual Studio2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\研究生活\張元翔 數位影像處理\HW\Homework5\HW5_10179008\HW5_Color Image Processing\Debug\HW5_Color Image Processing.exe" /NOLOGO opencv_core246d.lib opencv_calib3d246d.lib opencv_contrib246d.lib opencv_features2d246d.lib opencv_highgui246d.lib opencv_imgproc246d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HW5_Color Image Processing.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\研究生活\張元翔 數位影像處理\HW\Homework5\HW5_10179008\HW5_Color Image Processing\Debug\HW5_Color Image Processing.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\研究生活\張元翔 數位影像處理\HW\Homework5\HW5_10179008\HW5_Color Image Processing\Debug\HW5_Color Image Processing.lib" /MACHINE:X86 "Debug\HW5_RGB 與 HSI 互相轉換.obj"
+         LINK : 最後的累加連結找不到或未建置 D:\研究生活\張元翔 數位影像處理\HW\Homework5\HW5_10179008\HW5_Color Image Processing\Debug\HW5_Color Image Processing.exe，正在執行完整連結
+         HW5_Color Image Processing.vcxproj -> D:\研究生活\張元翔 數位影像處理\HW\Homework5\HW5_10179008\HW5_Color Image Processing\Debug\HW5_Color Image Processing.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\研究生活\張元翔 數位影像處理\HW\Homework5\HW5_10179008\HW5_Color Image Processing\Debug\HW5_Color Image Processing.exe;#1" /manifest "Debug\HW5_Color Image Processing.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\HW5_Color Image Processing.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\HW5_Color Image Processing.lastbuildstate"。
+     1>專案 "D:\研究生活\張元翔 數位影像處理\HW\Homework5\HW5_10179008\HW5_Color Image Processing\HW5_Color Image Processing\HW5_Color Image Processing.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:02.13

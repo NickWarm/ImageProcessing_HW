@@ -1,0 +1,17 @@
+﻿已經開始建置於 2013/11/11 上午 04:06:54。
+     1>節點 2 (build 目標) 上的專案 "D:\work\Visual Studio works\OpenCV works\HW2_HistogramMatching_and_GaussianFilter\HW2_part2_Gaussian Filtering\HW2_part2_Gaussian Filtering\HW2_part2_Gaussian Filtering.vcxproj"。
+     1>InitializeBuildStatus:
+         由於指定了 "AlwaysCreate"，因此正在建立 "Debug\HW2_part2_Gaussian Filtering.unsuccessfulbuild"。
+       ClCompile:
+         所有輸出都是最新的。
+       Link:
+         所有輸出都是最新的。
+         HW2_part2_Gaussian Filtering.vcxproj -> D:\work\Visual Studio works\OpenCV works\HW2_HistogramMatching_and_GaussianFilter\HW2_part2_Gaussian Filtering\Debug\HW2_part2_Gaussian Filtering.exe
+       FinalizeBuildStatus:
+         正在刪除檔案 "Debug\HW2_part2_Gaussian Filtering.unsuccessfulbuild"。
+         正在變更時間戳記 "Debug\HW2_part2_Gaussian Filtering.lastbuildstate"。
+     1>專案 "D:\work\Visual Studio works\OpenCV works\HW2_HistogramMatching_and_GaussianFilter\HW2_part2_Gaussian Filtering\HW2_part2_Gaussian Filtering\HW2_part2_Gaussian Filtering.vcxproj" (build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.04
